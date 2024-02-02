@@ -1,0 +1,1976 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\6022af993a6b2191db3ed10c\628298b20ae0236682d4b87f_Play-24.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\6022af993a6b2191db3ed10c\628299f8aa233b83918e24fd_Pause.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/61d72644ccb83b1b0de12843/620e95d066993edfe0717f2c_drop-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\61d72644ccb83b1b0de12843\620e95d066993edfe0717f2c_drop-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/61d72644ccb83b1b0de12843/620e9ca9062a3c74c6dc291d_bryant-dental-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\61d72644ccb83b1b0de12843\620e9ca9062a3c74c6dc291d_bryant-dental-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/61d72644ccb83b1b0de12843/620e9fc8b35a7f6ee9515fd4_compound-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\61d72644ccb83b1b0de12843\620e9fc8b35a7f6ee9515fd4_compound-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/61d72644ccb83b1b0de12843/620ea26fbe3c6e449e236bde_extra-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\61d72644ccb83b1b0de12843\620ea26fbe3c6e449e236bde_extra-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero home.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero home.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero%2520home-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero%20home-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero%2520home-p-1600.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero%20home-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero%2520home-p-2000.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero%20home-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero%2520home-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero%20home-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f326191b78c02_hero%2520home-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326191b78c02_hero%20home-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4631e085f32ce68b78be4_new-tab-icon.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f32ce68b78be4_new-tab-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4ab5d8b2a27f9f28c4a69_24437-scroll-down.gif
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4ab5d8b2a27f9f28c4a69_24437-scroll-down.gif
+Content Type: image/gif
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4b8742617162fdb7c9e77_mockup_wizup copy 1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4b8742617162fdb7c9e77_mockup_wizup copy 1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e52892ba886273f98079_foodforthought-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e52892ba886273f98079_foodforthought-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e52892ba886273f98079_foodforthought-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e52892ba886273f98079_foodforthought-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e52892ba886273f98079_foodforthought-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e52892ba886273f98079_foodforthought-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e52892ba886273f98079_foodforthought.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e52892ba886273f98079_foodforthought.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e91bfcbe523569383ac7_Ideation (1)-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e91bfcbe523569383ac7_Ideation (1)-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e91bfcbe523569383ac7_Ideation (1)-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e91bfcbe523569383ac7_Ideation (1)-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e91bfcbe523569383ac7_Ideation (1)-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e91bfcbe523569383ac7_Ideation (1)-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e91bfcbe523569383ac7_Ideation (1).png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e91bfcbe523569383ac7_Ideation (1).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b4e9d04fd22754c5627fe2_ishani pandey-02.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4e9d04fd22754c5627fe2_ishani pandey-02.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b508487e2c70a1d4fa6261_Arrow - Right (1).svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b508487e2c70a1d4fa6261_Arrow - Right (1).svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates .jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates .jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%2520-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%20-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%2520-p-1600.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%20-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%2520-p-2000.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%20-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%2520-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%20-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%2520-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50d5ad4ef725253f3eff5_cta-v10-image-elements-brix-templates%20-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50eb73c47703342103767_2020Footer_InnovationHub-1-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b50eb73c47703342103767_2020Footer_InnovationHub-1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b50eb73c47703342103767_2020Footer_InnovationHub-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b51d4ef6d39000962e0617_visual_.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b51d4ef6d39000962e0617_visual_.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b5db3016128f07b9598e28_sysyr.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b5db3016128f07b9598e28_sysyr.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b5db305fe0de827d52c4ad_thesis.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b5db305fe0de827d52c4ad_thesis.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b5db30db3231911d0c5995_teach.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b5db30db3231911d0c5995_teach.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d9312a5cddcfd1157c_As-is scenario-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d9312a5cddcfd1157c_As-is scenario-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d9312a5cddcfd1157c_As-is scenario-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d9312a5cddcfd1157c_As-is scenario-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d9312a5cddcfd1157c_As-is scenario-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d9312a5cddcfd1157c_As-is scenario-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d9312a5cddcfd1157c_As-is scenario-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d9312a5cddcfd1157c_As-is scenario-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d9312a5cddcfd1157c_As-is scenario.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d9312a5cddcfd1157c_As-is scenario.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d96018e6ff211b72d9_findcourse-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d96018e6ff211b72d9_findcourse-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d96018e6ff211b72d9_findcourse-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d96018e6ff211b72d9_findcourse-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712d96018e6ff211b72d9_findcourse.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712d96018e6ff211b72d9_findcourse.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04bfe80202487210_user test one-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04bfe80202487210_user test one-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04bfe80202487210_user test one-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04bfe80202487210_user test one-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04bfe80202487210_user test one.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04bfe80202487210_user test one.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04f996df4b781ec0_user test 2-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04f996df4b781ec0_user test 2-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04f996df4b781ec0_user test 2-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04f996df4b781ec0_user test 2-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd04f996df4b781ec0_user test 2.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd04f996df4b781ec0_user test 2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd59d2a8fd360aeabc_Group 7-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd59d2a8fd360aeabc_Group 7-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd59d2a8fd360aeabc_Group 7-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd59d2a8fd360aeabc_Group 7-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd59d2a8fd360aeabc_Group 7.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd59d2a8fd360aeabc_Group 7.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6a02356ed5179403_To-be scenario-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6a02356ed5179403_To-be scenario-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6a02356ed5179403_To-be scenario-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6a02356ed5179403_To-be scenario-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6a02356ed5179403_To-be scenario-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6a02356ed5179403_To-be scenario-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6a02356ed5179403_To-be scenario-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6a02356ed5179403_To-be scenario-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6a02356ed5179403_To-be scenario.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6a02356ed5179403_To-be scenario.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6ba74117c8e57176_persona-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6ba74117c8e57176_persona-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6ba74117c8e57176_persona-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6ba74117c8e57176_persona-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6ba74117c8e57176_persona-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6ba74117c8e57176_persona-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dd6ba74117c8e57176_persona.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dd6ba74117c8e57176_persona.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddb4cdea71f2a644ca_review-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddb4cdea71f2a644ca_review-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddb4cdea71f2a644ca_review-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddb4cdea71f2a644ca_review-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddb4cdea71f2a644ca_review-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddb4cdea71f2a644ca_review-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddb4cdea71f2a644ca_review.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddb4cdea71f2a644ca_review.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddc0e7dbdc51bdaa4b_Start your flow here.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddc0e7dbdc51bdaa4b_Start your flow here.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dde4fdcd68da69ee6d_join app-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dde4fdcd68da69ee6d_join app-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dde4fdcd68da69ee6d_join app-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dde4fdcd68da69ee6d_join app-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dde4fdcd68da69ee6d_join app-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dde4fdcd68da69ee6d_join app-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712dde4fdcd68da69ee6d_join app.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712dde4fdcd68da69ee6d_join app.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddfa39b1fcc25238d4_user test 3-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddfa39b1fcc25238d4_user test 3-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddfa39b1fcc25238d4_user test 3-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddfa39b1fcc25238d4_user test 3-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b712ddfa39b1fcc25238d4_user test 3.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b712ddfa39b1fcc25238d4_user test 3.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7133774f9cf144a7bd387_6134170-03.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7133774f9cf144a7bd387_6134170-03.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7191b0ae6327a7f312640_Group 81.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7191b0ae6327a7f312640_Group 81.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7191b37c5cd442064783d_Group 82.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7191b37c5cd442064783d_Group 82.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7191b6d69d05acf346c00_Group 84.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7191b6d69d05acf346c00_Group 84.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b7191b92a1216cb3774be9_Group 83.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b7191b92a1216cb3774be9_Group 83.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8596b2be289124873dca7_Group 380.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8596b2be289124873dca7_Group 380.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8596b2be28958e873dca9_path28.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8596b2be28958e873dca9_path28.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b887742019364f406c696e_main page group-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b887742019364f406c696e_main page group-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b887742019364f406c696e_main page group-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b887742019364f406c696e_main page group-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b887742019364f406c696e_main page group.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b887742019364f406c696e_main page group.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774340bdc13990b83ec_feedback group-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774340bdc13990b83ec_feedback group-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774340bdc13990b83ec_feedback group-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774340bdc13990b83ec_feedback group-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774340bdc13990b83ec_feedback group-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774340bdc13990b83ec_feedback group-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774340bdc13990b83ec_feedback group.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774340bdc13990b83ec_feedback group.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774aa6fc12b71743088_login_group-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774aa6fc12b71743088_login_group-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774aa6fc12b71743088_login_group-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774aa6fc12b71743088_login_group-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774aa6fc12b71743088_login_group.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774aa6fc12b71743088_login_group.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774e89e7ab95023d08f_planner group-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774e89e7ab95023d08f_planner group-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774e89e7ab95023d08f_planner group-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774e89e7ab95023d08f_planner group-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774e89e7ab95023d08f_planner group-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774e89e7ab95023d08f_planner group-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b88774e89e7ab95023d08f_planner group.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b88774e89e7ab95023d08f_planner group.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b889a5d9c0b69f224bf2b7_main-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b889a5d9c0b69f224bf2b7_main-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b889a5d9c0b69f224bf2b7_main.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b889a5d9c0b69f224bf2b7_main.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8949476414d0ea1bc32ef_Arrow_2.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8949476414d0ea1bc32ef_Arrow_2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8954ed5dfaaa62e41a1f2_Play.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8954ed5dfaaa62e41a1f2_Play.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a28ca64d3285a7a853d4_Polygon 1.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a28ca64d3285a7a853d4_Polygon 1.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a28ca64d32f6d5a853ca_Group 402-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a28ca64d32f6d5a853ca_Group 402-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a28ca64d32f6d5a853ca_Group%2520402-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a28ca64d32f6d5a853ca_Group%20402-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a437302ba172d0228c82_tick.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a437302ba172d0228c82_tick.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a437302ba1c27e228c83_collaborate.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a437302ba1c27e228c83_collaborate.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a4730f5b78a3e9445a7a_script-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a4730f5b78a3e9445a7a_script-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a4730f5b78a3e9445a7a_script.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a4730f5b78a3e9445a7a_script.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a6a14f9964884d457eb5_IMG_0070-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a6a14f9964884d457eb5_IMG_0070-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a6a14f9964884d457eb5_IMG_0070-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a6a14f9964884d457eb5_IMG_0070-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a6a14f9964884d457eb5_IMG_0070-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a6a14f9964884d457eb5_IMG_0070-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8a6a14f9964884d457eb5_IMG_0070.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8a6a14f9964884d457eb5_IMG_0070.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63b8d44646576d740e93d117_design.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b8d44646576d740e93d117_design.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb2cc0076d75684c705d74_Group 47415-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb2cc0076d75684c705d74_Group 47415-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb2cc0076d75684c705d74_Group 47415.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb2cc0076d75684c705d74_Group 47415.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb2cc015cbc74461984be4_Group 47417-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb2cc015cbc74461984be4_Group 47417-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb2cc015cbc74461984be4_Group 47417.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb2cc015cbc74461984be4_Group 47417.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb32962d48217700625100_Group 47416-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb32962d48217700625100_Group 47416-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb32962d48217700625100_Group 47416-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb32962d48217700625100_Group 47416-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb32962d48217700625100_Group 47416-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb32962d48217700625100_Group 47416-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb32962d48217700625100_Group 47416.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb32962d48217700625100_Group 47416.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1)-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1).png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5634e7d3d49db7096dec_mockup_food (2) (1) (1).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb59ed076d75fa9473ba74_recording 2-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb59ed076d75fa9473ba74_recording 2-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb59ed076d75fa9473ba74_recording 2-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb59ed076d75fa9473ba74_recording 2-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb59ed076d75fa9473ba74_recording 2-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb59ed076d75fa9473ba74_recording 2-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5c16fe573ce2256fc2d8_recording 3-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5c16fe573ce2256fc2d8_recording 3-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5c16fe573ce2256fc2d8_recording 3-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5c16fe573ce2256fc2d8_recording 3-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb5c16fe573ce2256fc2d8_recording 3-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb5c16fe573ce2256fc2d8_recording 3-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb81f3076d75a9b6762be9_recording 01-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb81f3076d75a9b6762be9_recording 01-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb81f3076d75a9b6762be9_recording 01-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb81f3076d75a9b6762be9_recording 01-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb81f3076d75a9b6762be9_recording 01-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb81f3076d75a9b6762be9_recording 01-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb842d2d4821804b678fe5_recording 4-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb842d2d4821804b678fe5_recording 4-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb842d2d4821804b678fe5_recording 4-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb842d2d4821804b678fe5_recording 4-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb842d2d4821804b678fe5_recording 4-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb842d2d4821804b678fe5_recording 4-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb9bfd2d482120a668f130_6-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb9bfd2d482120a668f130_6-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb9bfd2d482120a668f130_6-p-1600.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb9bfd2d482120a668f130_6-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb9bfd2d482120a668f130_6-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb9bfd2d482120a668f130_6-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb9bfd2d482120a668f130_6-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb9bfd2d482120a668f130_6-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bb9bfd2d482120a668f130_6.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bb9bfd2d482120a668f130_6.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bba10528018478b0330be6_Group 47421-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bba10528018478b0330be6_Group 47421-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bba10528018478b0330be6_Group 47421-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bba10528018478b0330be6_Group 47421-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bba10528018478b0330be6_Group 47421.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bba10528018478b0330be6_Group 47421.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-2600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbaafd15cbc7be14a12ee8_FOOD FOR THOUGHT.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb127d99068dfdf388cef_Group 47424-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb127d99068dfdf388cef_Group 47424-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb127d99068dfdf388cef_Group 47424.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb127d99068dfdf388cef_Group 47424.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb12815cbc70846a17d5a_Group 47422-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb12815cbc70846a17d5a_Group 47422-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb12815cbc70846a17d5a_Group 47422-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb12815cbc70846a17d5a_Group 47422-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb12815cbc70846a17d5a_Group 47422-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb12815cbc70846a17d5a_Group 47422-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb12815cbc70846a17d5a_Group 47422.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb12815cbc70846a17d5a_Group 47422.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb1284335dade8cbd0059_Group 47423-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb1284335dade8cbd0059_Group 47423-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb1284335dade8cbd0059_Group 47423-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb1284335dade8cbd0059_Group 47423-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb1284335dade8cbd0059_Group 47423-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb1284335dade8cbd0059_Group 47423-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb1284335dade8cbd0059_Group 47423.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb1284335dade8cbd0059_Group 47423.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb128b73c8b849d2025cf_Group 47425-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb128b73c8b849d2025cf_Group 47425-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb128b73c8b849d2025cf_Group 47425-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb128b73c8b849d2025cf_Group 47425-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb128b73c8b849d2025cf_Group 47425.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb128b73c8b849d2025cf_Group 47425.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-2600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb129b73c8b104b2025d0_Visual Identity.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb129b73c8b104b2025d0_Visual Identity.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb4ce7fceb0c93c651259_community.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb4ce7fceb0c93c651259_community.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb4cf3d3d7acbef6ffd0e_food.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb4cf3d3d7acbef6ffd0e_food.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb4cfc6b9ef5233a582fb_calculator.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb4cfc6b9ef5233a582fb_calculator.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbb4cffe573cbbc575a2bc_placard.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbb4cffe573cbbc575a2bc_placard.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbbb9c9d70bb5365ec8714_target.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbbb9c9d70bb5365ec8714_target.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbbbb415cbc7bb02a225c3_accesibility.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbbbb415cbc7bb02a225c3_accesibility.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63bbbfc09d5ae78113ac0ad2_hackathon.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63bbbfc09d5ae78113ac0ad2_hackathon.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63cdd5c1c8b33a86dd2408b1_Group 385.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63cdd5c1c8b33a86dd2408b1_Group 385.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63cdf8f670ce9810566881e1_Hero_2.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63cdf8f670ce9810566881e1_Hero_2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63ce10dc70ce9817666a2d19_Ishani_Pandey_UI2116_Google_Low_res_page-0001 copy.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63ce10dc70ce9817666a2d19_Ishani_Pandey_UI2116_Google_Low_res_page-0001 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63ce163070e27897e041eb9f_Ishani_Pandey_UI2116_Google_Low_res_page-0001 copywdfw.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63ce163070e27897e041eb9f_Ishani_Pandey_UI2116_Google_Low_res_page-0001 copywdfw.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63cefae00fbcdc3d5897c32e_craigslist.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63cefae00fbcdc3d5897c32e_craigslist.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/63d03d4a217846461a47ecc4_ltd_app.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63d03d4a217846461a47ecc4_ltd_app.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6451af3be505d902d8e3860d_image002.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6451af3be505d902d8e3860d_image002.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64702a133eac8a224c211902_IMG_0748.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64702a133eac8a224c211902_IMG_0748.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64702a13e14f0a2ee9b0fe02_Untitled-1 copy.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64702a13e14f0a2ee9b0fe02_Untitled-1 copy.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64aef681ac97dcbf3ca2ed50_Screenshot 2023-07-12 at 2.52.21 PM.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64aef681ac97dcbf3ca2ed50_Screenshot 2023-07-12 at 2.52.21 PM.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a36da350af18336ab02_Background Blur.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a36da350af18336ab02_Background Blur.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868b9_Gradient Blur 001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868b9_Gradient Blur 001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868bd_Portrait001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868bd_Portrait001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868c0_Portrait002.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868c0_Portrait002.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868c3_Portrait003.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868c3_Portrait003.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868c6_Portrait004.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868c6_Portrait004.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868c9_Portrait006.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868c9_Portrait006.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64df7a4f29b42e62f50868cc_Portrait0018.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64df7a4f29b42e62f50868cc_Portrait0018.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfc064ba658f08c2400c8a_microsoft.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfc064ba658f08c2400c8a_microsoft.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfd277a9539c2bbb9ad15d_microsoft-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfd277a9539c2bbb9ad15d_microsoft-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfd277a9539c2bbb9ad15d_microsoft-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfd277a9539c2bbb9ad15d_microsoft-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfd277a9539c2bbb9ad15d_microsoft-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfd277a9539c2bbb9ad15d_microsoft-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfd277a9539c2bbb9ad15d_microsoft-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfd277a9539c2bbb9ad15d_microsoft-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/64dfd277a9539c2bbb9ad15d_microsoft.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\64dfd277a9539c2bbb9ad15d_microsoft.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6517914929b7fe98f636c44d_thats-clutch-bg.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6517914929b7fe98f636c44d_thats-clutch-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6517914929b7fe98f636c462_Aluce-Light-Grainy-Gradient.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6517914929b7fe98f636c462_Aluce-Light-Grainy-Gradient.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/654801bd1b2b1b6d86b5ad9f_Ishani Logo.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\654801bd1b2b1b6d86b5ad9f_Ishani Logo.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65480404edc2ea69370064ad_small arrow.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65480404edc2ea69370064ad_small arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/654821b1257c910f7746cd93_bg-1.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\654821b1257c910f7746cd93_bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6548291f257c910f774baca6_ACCESSIBILITY.gif
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6548291f257c910f774baca6_ACCESSIBILITY.gif
+Content Type: image/gif
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6548388d12815d6340f3154a_ontario.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6548388d12815d6340f3154a_ontario.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13 %2B Shadow.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13 + Shadow.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13%2520%252B%2520Shadow-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13%20%2B%20Shadow-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13%2520%252B%2520Shadow-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13%20%2B%20Shadow-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13%2520%252B%2520Shadow-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13%20%2B%20Shadow-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13%2520%252B%2520Shadow-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13%20%2B%20Shadow-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67843d_13%2520%252B%2520Shadow-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67843d_13%20%2B%20Shadow-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678444_drop-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678444_drop-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678444_drop.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678444_drop.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844a_61115d0befa7b25cd7c160f0_drop-3-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844a_61115d0befa7b25cd7c160f0_drop-3-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844a_61115d0befa7b25cd7c160f0_drop-3.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844a_61115d0befa7b25cd7c160f0_drop-3.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844e_Chat App.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844e_Chat App.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844e_Chat%2520App-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844e_Chat%20App-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844e_Chat%2520App-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844e_Chat%20App-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67844e_Chat%2520App-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67844e_Chat%20App-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678456_plus (1).png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678456_plus (1).png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678456_plus%2520(1)-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678456_plus%20(1)-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678459_nft-web-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678459_nft-web-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678459_nft-web.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678459_nft-web.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67845c_project-1-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67845c_project-1-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67845c_project-1-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67845c_project-1-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678461_1-silver-team-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678461_1-silver-team-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678461_1-silver-team-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678461_1-silver-team-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678461_1-silver-team-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678461_1-silver-team-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678465_2-blue-team-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678465_2-blue-team-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678465_2-blue-team-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678465_2-blue-team-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678465_2-blue-team-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678465_2-blue-team-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678469_3-purple-team-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678469_3-purple-team-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678469_3-purple-team-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678469_3-purple-team-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678469_3-purple-team-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678469_3-purple-team-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67846d_5-orange-team-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67846d_5-orange-team-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67846d_5-orange-team-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67846d_5-orange-team-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678471_6-yellow-team-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678471_6-yellow-team-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678471_6-yellow-team-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678471_6-yellow-team-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678471_6-yellow-team-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678471_6-yellow-team-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678475_1-chat-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678475_1-chat-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678475_1-chat-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678475_1-chat-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678475_1-chat-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678475_1-chat-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678479_2-chat-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678479_2-chat-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678479_2-chat-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678479_2-chat-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678479_2-chat-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678479_2-chat-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67847d_3-chat-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67847d_3-chat-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67847d_3-chat-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67847d_3-chat-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678481_4-chat-app-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678481_4-chat-app-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678481_4-chat-app-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678481_4-chat-app-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678481_4-chat-app-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678481_4-chat-app-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678485_Chat App - Cropped-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678485_Chat App - Cropped-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678485_Chat%2520App%2520-%2520Cropped-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678485_Chat%20App%20-%20Cropped-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67848a_chat-app-3d-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67848a_chat-app-3d-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67848a_chat-app-3d-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67848a_chat-app-3d-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67848f_nft-3d-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67848f_nft-3d-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67848f_nft-3d-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67848f_nft-3d-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678494_1-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678494_1-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678498_2-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678498_2-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67849c_3-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67849c_3-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784a0_4-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784a0_4-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784a4_5-nft-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784a4_5-nft-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784a4_5-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784a4_5-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784a8_6-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784a8_6-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ac_8-nft-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ac_8-nft-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ac_8-nft-min-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ac_8-nft-min-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ac_8-nft-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ac_8-nft-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b0_nft-hmpg-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b0_nft-hmpg-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b0_nft-hmpg-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b0_nft-hmpg-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b5_store-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b5_store-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b5_store-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b5_store-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b5_store-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b5_store-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784b5_store.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784b5_store.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784bf_bubblekush.ca-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784bf_bubblekush.ca-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784bf_bubblekush.ca-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784bf_bubblekush.ca-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784bf_bubblekush.ca.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784bf_bubblekush.ca.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784c3_drop-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784c3_drop-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784c3_drop-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784c3_drop-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784c3_drop-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784c3_drop-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784c7_bryant-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784c7_bryant-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784c7_bryant.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784c7_bryant.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784cd_61115d0be99a517a9be291d6_drop-1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784cd_61115d0be99a517a9be291d6_drop-1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d1_61115d0bc8d060231dca6344_drop-4.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d1_61115d0bc8d060231dca6344_drop-4.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d5_61115d0b0ad7158f3c527631_drop-2-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d5_61115d0b0ad7158f3c527631_drop-2-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d5_61115d0b0ad7158f3c527631_drop-2.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d5_61115d0b0ad7158f3c527631_drop-2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d9_bryant-dental-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d9_bryant-dental-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d9_bryant-dental-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d9_bryant-dental-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784d9_bryant-dental-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784d9_bryant-dental-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784dd_1.1-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784dd_1.1-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784dd_1.1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784dd_1.1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784e1_1-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784e1_1-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784e1_1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784e1_1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784e5_4.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784e5_4.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784e9_3-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784e9_3-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784e9_3.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784e9_3.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ed_compound-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ed_compound-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ed_compound-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ed_compound-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ed_compound-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ed_compound-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f1_compound-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f1_compound-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f1_compound-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f1_compound-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f1_compound-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f1_compound-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f1_compound.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f1_compound.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f7_1-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f7_1-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784f7_1.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784f7_1.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784fb_2-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784fb_2-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784fb_2-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784fb_2-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784fb_2.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784fb_2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ff_3-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ff_3-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e6784ff_3.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e6784ff_3.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678503_4-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678503_4-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678503_4.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678503_4.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678507_extra-poster-00001.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678507_extra-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678507_extra-transcode.mp4
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678507_extra-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678507_extra-transcode.webm
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678507_extra-transcode.webm
+Content Type: video/webm
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67850b_extr-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67850b_extr-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67850b_extr-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67850b_extr-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67850b_extr-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67850b_extr-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67850b_extr.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67850b_extr.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678511_1e.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678511_1e.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678515_2e-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678515_2e-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678515_2e.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678515_2e.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678519_3e.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678519_3e.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67851d_5.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67851d_5.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67852b_1b-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67852b_1b-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67852e_2b-min-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67852e_2b-min-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67852e_2b-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67852e_2b-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678531_3b-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678531_3b-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678534_4b-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678534_4b-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e678537_5b-min.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e678537_5b-min.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853a_i-bubble-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853a_i-bubble-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853a_i-bubble.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853a_i-bubble.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team App.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team App.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team%2520App-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team%20App-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team%2520App-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team%20App-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team%2520App-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team%20App-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team%2520App-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team%20App-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485347f4d90d724e67853d_Team%2520App-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485347f4d90d724e67853d_Team%20App-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65485a3dd8525c24a1da446f_6137431ff45a39b264299e9d_pixel-pattern.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65485a3dd8525c24a1da446f_6137431ff45a39b264299e9d_pixel-pattern.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552e5097b2e8e6cffef82bf_microsoft-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552e5097b2e8e6cffef82bf_microsoft-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552e5097b2e8e6cffef82bf_microsoft-p-1600.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552e5097b2e8e6cffef82bf_microsoft-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552e5097b2e8e6cffef82bf_microsoft-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552e5097b2e8e6cffef82bf_microsoft-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552e5097b2e8e6cffef82bf_microsoft-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552e5097b2e8e6cffef82bf_microsoft-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552e5097b2e8e6cffef82bf_microsoft.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552e5097b2e8e6cffef82bf_microsoft.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-1600.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-2000.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-2000.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio)-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio).jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6552fc7c5fe2fdddde257e09_Copy of Education style of smartphone mockup with school elements (Mockuuups Studio).jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553131d5fe2fdddde360bd1_lock.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553131d5fe2fdddde360bd1_lock.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-1080.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-1600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-2000.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-2000.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-2600.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-2600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy-p-800.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/655319c3dbbfe79d4509efa0_ods-min copy.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\655319c3dbbfe79d4509efa0_ods-min copy.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65531d1989d1733f27385526_Untitled-1 copy.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65531d1989d1733f27385526_Untitled-1 copy.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553a24b878f9b2b083057a0_rom app main-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553a24b878f9b2b083057a0_rom app main-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553a24b878f9b2b083057a0_rom app main-p-1600.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553a24b878f9b2b083057a0_rom app main-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553a24b878f9b2b083057a0_rom app main-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553a24b878f9b2b083057a0_rom app main-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553a24b878f9b2b083057a0_rom app main-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553a24b878f9b2b083057a0_rom app main-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6553a24b878f9b2b083057a0_rom app main.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6553a24b878f9b2b083057a0_rom app main.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658e1521bddb427e1248d095_Screenshot 2023-12-28 at 7.38.42 PM.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658e1521bddb427e1248d095_Screenshot 2023-12-28 at 7.38.42 PM.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-1080.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-1600.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-500.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-800.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f488b4f46b9ec4e236435_1.Nuance Design Exercise-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f488b4f46b9ec4e236435_1.Nuance Design Exercise.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f488b4f46b9ec4e236435_1.Nuance Design Exercise.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/658f5f68b047557f61873000_Ishani_Pandey_Resume_portrolio.pdf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\658f5f68b047557f61873000_Ishani_Pandey_Resume_portrolio.pdf
+Content Type: application/pdf
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/65959b3589eca22251e71f26_Highlight_03.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65959b3589eca22251e71f26_Highlight_03.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/6598493b623bd0ac80312be2_EnvelopeSimple white.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\6598493b623bd0ac80312be2_EnvelopeSimple white.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/css/ishanipandey.webflow.8488efc52.min.css
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\css\ishanipandey.webflow.8488efc52.min.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/63b4631d085f328064b78b93/js/webflow.949d4e57e.js
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\js\webflow.949d4e57e.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f320928b78c80_1*CiOqmVAdJ6oPksciMOFcXw.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f320928b78c80_1CiOqmVAdJ6oPksciMOFcXw.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f320974b78bd8_1*lCvPdL6AzDbzvdOainIR7Q.gif
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f320974b78bd8_1lCvPdL6AzDbzvdOainIR7Q.gif
+Content Type: image/gif
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f322d95b78c8c_Park.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f322d95b78c8c_Park.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f323330b78c7d_0*YJDfv2m_ahQDzeSY.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f323330b78c7d_0YJDfv2m_ahQDzeSY.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f323907b78c87_Social Media Blog.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f323907b78c87_Social Media Blog.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f323907b78c87_Social%2520Media%2520Blog-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f323907b78c87_Social%20Media%20Blog-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324be7b78ca0_screen3-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324be7b78ca0_screen3-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324be7b78ca0_screen3-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324be7b78ca0_screen3-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324be7b78ca0_screen3-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324be7b78ca0_screen3-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324be7b78ca0_screen3.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324be7b78ca0_screen3.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324fd5b78c9e_screen1-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324fd5b78c9e_screen1-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324fd5b78c9e_screen1-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324fd5b78c9e_screen1-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324fd5b78c9e_screen1-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324fd5b78c9e_screen1-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f324fd5b78c9e_screen1.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f324fd5b78c9e_screen1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325933b78c83_Social Media Blog (3).jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325933b78c83_Social Media Blog (3).jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325933b78c83_Social%2520Media%2520Blog%2520(3)-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325933b78c83_Social%20Media%20Blog%20(3)-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325933b78c83_Social%2520Media%2520Blog%2520(3)-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325933b78c83_Social%20Media%20Blog%20(3)-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325a53b78c8f_hot beverage.gif
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325a53b78c8f_hot beverage.gif
+Content Type: image/gif
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325ce6b78c86_Blank Canvas.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325ce6b78c86_Blank Canvas.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325e61b78c8b_Social Media Blog.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325e61b78c8b_Social Media Blog.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f325e61b78c8b_Social%2520Media%2520Blog-p-500.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f325e61b78c8b_Social%20Media%20Blog-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f326f26b78c84_Social Media Blog (4).jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f326f26b78c84_Social Media Blog (4).jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f326f26b78c84_Social%2520Media%2520Blog%2520(4)-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f326f26b78c84_Social%20Media%20Blog%20(4)-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f326f26b78c84_Social%2520Media%2520Blog%2520(4)-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f326f26b78c84_Social%20Media%20Blog%20(4)-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327864b78c9f_screen2-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327864b78c9f_screen2-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327864b78c9f_screen2-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327864b78c9f_screen2-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327864b78c9f_screen2-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327864b78c9f_screen2-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327864b78c9f_screen2.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327864b78c9f_screen2.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327ea9b78c7f_Social Media Blog.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327ea9b78c7f_Social Media Blog.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327ea9b78c7f_Social%2520Media%2520Blog-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327ea9b78c7f_Social%20Media%20Blog-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f327ea9b78c7f_Social%2520Media%2520Blog-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f327ea9b78c7f_Social%20Media%20Blog-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f328b5eb78c36_1*AsakZZZFB8t6idwoJX7wig.gif
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f328b5eb78c36_1AsakZZZFB8t6idwoJX7wig.gif
+Content Type: image/gif
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f3293d3b78c8e_Tasks.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f3293d3b78c8e_Tasks.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f329626b78c79_1*bc5XHTYCaKj1PF3YDq0-Dg.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f329626b78c79_1bc5XHTYCaKj1PF3YDq0-Dg.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32d5fab78ca1_screen4-p-1080.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32d5fab78ca1_screen4-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32d5fab78ca1_screen4-p-500.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32d5fab78ca1_screen4-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32d5fab78ca1_screen4-p-800.jpeg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32d5fab78ca1_screen4-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32d5fab78ca1_screen4.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32d5fab78ca1_screen4.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32e357b78c8d_Process.jpg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32e357b78c8d_Process.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/63b4631e085f3257e9b78ba0/63b4631e085f32eb20b78c7a_1*tu5SBIDKIswfc47k6K3CKA.png
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631e085f3257e9b78ba0\63b4631e085f32eb20b78c7a_1tu5SBIDKIswfc47k6K3CKA.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-copyclip@1/copyclip.js
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\npm\@finsweet\attributes-copyclip@1\copyclip.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\npm\@finsweet\attributes-scrolldisable@1\scrolldisable.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/typed.js@2.0.9
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\npm\typed.js@2.0.9
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=63b4631d085f328064b78b93
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/swiper@11.0.5/swiper-bundle.min.js
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\swiper@11.0.5\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4631e085f320814b78bff_Degular Text Italic.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f320814b78bff_Degular Text Italic.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4631e085f3211f4b78be7_Degular Text Medium.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f3211f4b78be7_Degular Text Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4631e085f3213a5b78be5_Degular Display Regular.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f3213a5b78be5_Degular Display Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4631e085f326781b78be2_Degular Display Medium.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f326781b78be2_Degular Display Medium.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4631e085f32cb26b78bfd_Degular Text Regular.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4631e085f32cb26b78bfd_Degular Text Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d951d44d6224bf399ba_Syne-Extra.woff2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d951d44d6224bf399ba_Syne-Extra.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d95204bec3b3ea89665_Syne-Bold.eot
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d95204bec3b3ea89665_Syne-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9543ead40877038621_Syne-Bold.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9543ead40877038621_Syne-Bold.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9545ac6b50ca83f3b9_Syne-Extra.eot
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9545ac6b50ca83f3b9_Syne-Extra.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9566795a59359bad3b_Syne-Extra.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9566795a59359bad3b_Syne-Extra.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9590629af1403641d5_Syne-Bold.woff2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9590629af1403641d5_Syne-Bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9591cd4c29ad09e97b_Syne-Bold.woff
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9591cd4c29ad09e97b_Syne-Bold.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d95cfae796eb8e6ef23_Syne-Bold.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d95cfae796eb8e6ef23_Syne-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d95e1b2e83931a487d3_Syne-Extra.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d95e1b2e83931a487d3_Syne-Extra.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d963b5bb3565f8edf31_Syne-Regular.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d963b5bb3565f8edf31_Syne-Regular.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96501bae2f4e345ee9_Syne-Regular.woff
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96501bae2f4e345ee9_Syne-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9655460269bc0ce4a3_Syne-Italic.eot
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9655460269bc0ce4a3_Syne-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d967f082717e801efe2_Syne-Italic.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d967f082717e801efe2_Syne-Italic.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d9691cd4cd74909e984_Syne-Italic.woff
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d9691cd4cd74909e984_Syne-Italic.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96971b515308cebc41_Syne-Regular.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96971b515308cebc41_Syne-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d969c3e3f5545d13818_Syne-Mono.woff
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d969c3e3f5545d13818_Syne-Mono.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96b1e359b730859656_Syne-Extra.woff
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96b1e359b730859656_Syne-Extra.woff
+Content Type: application/x-font-woff
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96b241c5282733225f_Syne-Regular.woff2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96b241c5282733225f_Syne-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96bb97e63ae1e9b228_Syne-Italic.woff2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96bb97e63ae1e9b228_Syne-Italic.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96bb97e6b154e9b229_Syne-Regular.eot
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96bb97e6b154e9b229_Syne-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96c0cc397c253bca42_Syne-Italic.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96c0cc397c253bca42_Syne-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96c0cc39f79c3bca43_Syne-Mono.otf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96c0cc39f79c3bca43_Syne-Mono.otf
+Content Type: application/x-font-otf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96c632651d97e92f7d_Syne-Mono.eot
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96c632651d97e92f7d_Syne-Mono.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96cfae79dd42e6ef2c_Syne-Mono.woff2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96cfae79dd42e6ef2c_Syne-Mono.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b46d96fe11b42439430f98_Syne-Mono.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b46d96fe11b42439430f98_Syne-Mono.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959e0298b226d7a037e6_EncodeSans-Bold.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959e0298b226d7a037e6_EncodeSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959e9710e8001338b74f_EncodeSans-ExtraBold.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959e9710e8001338b74f_EncodeSans-ExtraBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959e9e1fbeda015e2915_EncodeSans-Black.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959e9e1fbeda015e2915_EncodeSans-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959f5f0712023aebc80e_EncodeSans-ExtraLight.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959f5f0712023aebc80e_EncodeSans-ExtraLight.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959f684ec4def8bc94a5_EncodeSans-Thin.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959f684ec4def8bc94a5_EncodeSans-Thin.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959f7e5e1e214e0026c3_EncodeSans-Regular.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959f7e5e1e214e0026c3_EncodeSans-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959f9b98ae1c3cf0ebd8_EncodeSans-Medium.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959f9b98ae1c3cf0ebd8_EncodeSans-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959f9e1fbe0c595e2916_EncodeSans-Light.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959f9e1fbe0c595e2916_EncodeSans-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/63b4959fa18e758e0ccbdb56_EncodeSans-SemiBold.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\63b4959fa18e758e0ccbdb56_EncodeSans-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/652857596d23bc51bf376451_CrimsonText-BoldItalic.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\652857596d23bc51bf376451_CrimsonText-BoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/652857598589978cf1598bc3_CrimsonText-SemiBoldItalic.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\652857598589978cf1598bc3_CrimsonText-SemiBoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/652857598ebb8307110327a4_CrimsonText-Italic.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\652857598ebb8307110327a4_CrimsonText-Italic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/65285759ac8e5d2f27ddccf3_CrimsonText-Bold.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\65285759ac8e5d2f27ddccf3_CrimsonText-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/652857611f3e267d1dd013ed_DMSerifDisplay-Regular.ttf
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\652857611f3e267d1dd013ed_DMSerifDisplay-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://uploads-ssl.webflow.com/63b4631d085f328064b78b93/652857612a03d57e4d2a40dd_OFL.txt
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\63b4631d085f328064b78b93\652857612a03d57e4d2a40dd_OFL.txt
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-FLL7J3H8YD
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.ishanipandey.com/
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/about-me
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\about-me.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/blog
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\blog.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/food-for-thought
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\food-for-thought.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/ishani-pandey-wizup
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\ishani-pandey-wizup.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/microsoft-internship
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\microsoft-internship.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/post/from-law-to-webflow-my-career-change-story
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\post\from-law-to-webflow-my-career-change-story.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/post/how-to-handle-creative-blocks
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\post\how-to-handle-creative-blocks.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/post/the-great-design-lead-podcast-guest-appearance
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\post\the-great-design-lead-podcast-guest-appearance.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/post/the-great-design-lead-podcast-guest-appearance-vol-2
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\post\the-great-design-lead-podcast-guest-appearance-vol-2.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/post/why-learning-webflow-can-make-you-a-better-designer
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\post\why-learning-webflow-can-make-you-a-better-designer.html
+Content Type: text/html
+
+Uri: https://www.ishanipandey.com/services
+File Name: C:\Users\Prashant Roy\Desktop\www.ishanipandey.com\services.html
+Content Type: text/html
+
